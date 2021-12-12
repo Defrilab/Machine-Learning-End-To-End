@@ -1,0 +1,10 @@
+Uninstalling torch-1.10.0:
+  Would remove:
+    c:\users\humph\desktop\deepsoft\projects\focus-video analytics\yolov5\yolov5_env\lib\site-packages\caffe2\*
+    c:\users\humph\desktop\deepsoft\projects\focus-video analytics\yolov5\yolov5_env\lib\site-packages\torch-1.10.0.dist-info\*
+    c:\users\humph\desktop\deepsoft\projects\focus-video analytics\yolov5\yolov5_env\lib\site-packages\torch\*
+    c:\users\humph\desktop\deepsoft\projects\focus-video analytics\yolov5\yolov5_env\scripts\convert-caffe2-to-onnx.exe
+    c:\users\humph\desktop\deepsoft\projects\focus-video analytics\yolov5\yolov5_env\scripts\convert-onnx-to-caffe2.exe
+    c:\users\humph\desktop\deepsoft\projects\focus-video analytics\yolov5\yolov5_env\scripts\torchrun.exe
+Proceed (y/n)? Your response ('') was not one of the expected responses: y, n
+Proceed (y/n)? 

@@ -172,7 +172,7 @@ def run(weights=ROOT / 'yolov5s.pt',  # model.pt path(s)
                                 print('This image has a person, trying to identify them now, meanwile saving their infor.')
                                 #identify the identity of the person, probaly use face_recognition
                                                                 
-                                label = 'Label'
+                                label = 'person'
 
                         annotator.box_label(xyxy, label, color=colors(c, True))
                         if save_crop:

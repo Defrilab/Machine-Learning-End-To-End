@@ -170,7 +170,7 @@ def run(weights=ROOT / 'yolov5s.pt',  # model.pt path(s)
                         person = label.split(' ')[0]
                         if person == 'person':
                                 print('This image has a person, trying to identify them now, meanwile saving their infor.')
-                                #identify the identity of the person, probaly use face_recognition
+                                #identify the identity of the person, probaly use face_recognition, here
                                                                 
                                 label = 'person'
 
